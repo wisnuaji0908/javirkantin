@@ -1,0 +1,20 @@
+List untuk fitur yg di fix (6 Juni 2024)
+A. sisi penjual 
+    1. fitur add gambar untuk tb_barang (migration belum ada field-nya, controller belum ada jg fieldnya)(done) note: update belom
+    2. History orderan tabrakan dengan penjual lain (get by id)
+B. sisi pembeli
+    1. pembelian lebih dari 1 barang dalam 1 toko
+    2. fitur wishlist
+        a. tambah atau kurang produk di wishlist (kalau B1 kelar, maka B2 kelar)
+C. role penjual/pembeli di tampilan sidebar dan dashboard(done)
+===========================
+A1 aman
+A2 terakhir dicek fitur bugnya
+C aman
+
+===========================
+To do list 15 Juni 2024
+berfokus menyelesaikan Fitur B1
+
+
+
